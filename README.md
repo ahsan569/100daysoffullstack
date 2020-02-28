@@ -13,3 +13,9 @@
 2. **Task 2**: colour in Html
 3. **Task 3**: Dictionaries
 4. **Task 4**: linking files
+
+
+## Day 3
+
+1. **Task 1**: create a portfolio site for anywhere company.
+
